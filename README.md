@@ -1,1 +1,1 @@
-# blogue-hexagone-tech
+# blogue-hexagone
